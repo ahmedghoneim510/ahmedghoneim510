@@ -1,5 +1,4 @@
 # Hi there, I'm Ahmed Ghoneim 👋
-<img align="right" alt="👍🏼" src="like.webp" width="150"/>
 <br>
 
 I am a student of Computer and Control Systems Engineering with a background in Backend and Problem Solving, currently pursuing my Bachelor's degree at Mansoura University in Egypt. I am eager to learn and grow in the field of Backend and  am excited about the opportunities that lie ahead.
