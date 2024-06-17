@@ -1,5 +1,6 @@
 # Hi there, I'm Ahmed Ghoneim 👋
 <br>
+![Profile views](https://komarev.com/ghpvc/?username=ahmedghoneim510&label=Profile%20views&color=0e75b6&style=flat)
 
 I am a student of Computer and Control Systems Engineering with a background in Backend and Problem Solving, currently pursuing my Bachelor's degree at Mansoura University in Egypt. I am eager to learn and grow in the field of Backend and  am excited about the opportunities that lie ahead.
 
