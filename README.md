@@ -1,52 +1,52 @@
-Hi there, I'm Ahmed Ghoneim 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedghoneim510&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedghoneim510" /> <img src="https://img.shields.io/github/followers/ahmedghoneim510?label=Followers" alt="ahmedghoneim510" /> </p>
-I am a passionate Backend Developer and a student of Computer and Control Systems Engineering at Mansoura University, Egypt. I have a strong background in backend development, particularly with PHP and Laravel, and I'm eager to expand my expertise in building efficient and scalable web applications. I am constantly seeking opportunities to grow and apply my knowledge in real-world projects.
+# Hi there, I'm Ahmed Ghoneim 👋
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedghoneim510&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedghoneim510" />
+                   <img src="https://img.shields.io/github/followers/ahmedghoneim510?label=Followers" alt="ahmedghoneim510" /></p>
 
-🏫 Education
-Bachelor of Engineering
-Mansoura University, Egypt
-October 2020 – June 2025
+I am a student of Computer and Control Systems Engineering with a background in Backend and Problem Solving, currently pursuing my Bachelor's degree at Mansoura University in Egypt. I am eager to learn and grow in the field of Backend and  am excited about the opportunities that lie ahead. <hr>
+
+# Education 🎓
+Bachelor of Engineering, Mansoura University ( $\mu$ ), $2020 - 2025$
+
 Department: Computer and Control Systems
-Grade: Excellent
 
-Relevant Coursework: Data Structures and Algorithms, Object-Oriented Programming, Database Systems, Problem Solving
+Relevant coursework: Data Structures and Algorithms, Object-Oriented Programming, Database Systems,Problem solving
 
-💼 Experience
-Backend Developer Intern
-True Marketing Consultancy
-August 2024 – Present
+## Languages and Tools:
 
-Contributed to various web application projects using Laravel.
-Collaborated with Flutter developers to integrate backend services with Flutter apps.
-Backend Developer Intern
-Information Technology Institute (ITI), Mansoura, Egypt
-July 2023 – September 2023
 
-Studied and applied web development technologies like HTML, CSS, JavaScript, PHP, Laravel, and databases.
-Worked on group projects to build web applications, demonstrating proficiency in backend development.
-Volunteer Experience
-ICPC Mansoura Community - Team Leader
+<p align="left"> 
+ <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+ </a>
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+ </a>
+ <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+ </a>
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+ </a>
+ <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+ </a>
+ <a href="https://www.w3schools.com/php/default.asp" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="Php" width="40" height="40"/>
+ </a>
+</p>
 
-Led 2023 onsite training sessions and coached teams for ECPC contests.
-Responsible for overseeing and coaching teams participating from Mansoura.
-🛠️ Skills
-Languages: Python, C++, C#, HTML, CSS, JavaScript, PHP, SQL
-Frameworks and Libraries: Laravel, Livewire, jQuery, Bootstrap
-Tools: Git, GitHub, RESTful APIs
-Concepts: OOP, SOLID Principles, Clean Code, Problem Solving
-Other: API Integration, Database Management, Authentication, Authorization
-🚀 Projects
-Warehouse and Covenant Management
-Developed a user-friendly dashboard for managing warehouses and covenants for medical representatives. Implemented modules to monitor remaining medical items.
-Employee and Medical Administration
-Built CRUD functionalities for managing employees and medical representatives. Integrated a flexible roles and permissions system.
-Advanced E-commerce Platform
-Created a multi-vendor store with Laravel, including features such as shopping cart functionality, order management, notifications, and third-party API integration.
-Financial Management Application
-Developed an application to manage financial data for partners and monthly incomes, with functionalities for adding, editing, and deleting data.
-For more of my projects, please visit my GitHub profile.
+Check out my [LinkedIn](https://www.linkedin.com/in/ahmed-ghoneim-85b320219/) for more details.
 
-📞 Contact
-<a href="https://www.linkedin.com/in/ahmed-ghoneim-85b320219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:ahmedghoneim510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://facebook.com/ahmedghoneim8"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://t.me/Ahmed_Ghoneim5"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
-Feel free to reach out to me for any opportunities, collaborations, or just to connect!
+
+# Projects 📁
+You can see most of it here actually.
+
+# Contact 📞
+<a href="https://www.linkedin.com/in/ahmed-ghoneim-85b320219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ahmedghoneim510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://facebook.com/ahmedghoneim8"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://t.me/Ahmed_Ghoneim5"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
+Feel free to reach out to me if you have any questions or would like to connect!
