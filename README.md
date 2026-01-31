@@ -7,7 +7,7 @@
 
 I am a **Backend Developer** and Computer Engineering student at **Mansoura University**. With 2+ years of experience in building production-ready systems, I specialize in **PHP & Laravel**, following **SOLID principles** and **Clean Architecture**. 
 
-🚀 I am currently **seeking new challenges** and opportunities to apply my expertise in scalable backend systems. To stay at the forefront of technology, I am actively advancing my skills in **React** and **Advanced Database** techniques.
+💡 I am a highly motivated engineer with a deep passion for solving complex problems and a strong drive for continuous self-improvement. I thrive on learning new technologies and am currently advancing my expertise in **React** and **Advanced Database** management to build more robust and efficient software solutions.
 
 ---
 
@@ -15,7 +15,7 @@ I am a **Backend Developer** and Computer Engineering student at **Mansoura Univ
 * **Backend:** PHP, Laravel (Modular Design, RESTful APIs, RBAC).
 * **Performance:** MySQL Optimization, Laravel Queues & Jobs, Automated QR Generation.
 * **Architecture:** SOLID Principles, Clean Architecture, MVC.
-* **Learning Path:** React.js & Advanced Database Management.
+* **Currently Mastering:** React.js & Advanced Database Architectures.
 
 ---
 
@@ -57,4 +57,4 @@ I am a **Backend Developer** and Computer Engineering student at **Mansoura Univ
 <a href="https://t.me/Ahmed_Ghoneim5"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
-I'm always open to discussing new projects or software engineering opportunities!
+I'm always open to discussing new tech, collaboration, or interesting software challenges!
