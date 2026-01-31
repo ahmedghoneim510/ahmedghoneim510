@@ -1,52 +1,68 @@
 # Hi there, I'm Ahmed Ghoneim 👋
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedghoneim510&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedghoneim510" />
-                   <img src="https://img.shields.io/github/followers/ahmedghoneim510?label=Followers" alt="ahmedghoneim510" /></p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ahmedghoneim510&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedghoneim510" />
+  <img src="https://img.shields.io/github/followers/ahmedghoneim510?label=Followers" alt="ahmedghoneim510" />
+</p>
 
-I am a student of Computer and Control Systems Engineering with a background in Backend and Problem Solving, currently pursuing my Bachelor's degree at Mansoura University in Egypt and also backend at True Company. I am eager to learn and grow in the field of Backend . <hr>
+I am a **Backend Developer** at **True Company** and a Computer and Control Systems Engineering student at **Mansoura University**. With 2+ years of experience in the field, I specialize in building scalable backend systems using **PHP & Laravel**, following **SOLID principles** and **Clean Architecture**. 
 
-# Education 🎓
-Bachelor of Engineering, Mansoura University ( $\mu$ ), $2020 - 2025$
+I am passionate about problem-solving and high-performance systems. Currently, I am advancing my skills in **React** and **Advanced Database** techniques to build robust, full-cycle solutions.
 
-Department: Computer and Control Systems
+---
 
-Relevant coursework: Data Structures and Algorithms, Object-Oriented Programming, Database Systems,Problem solving
+### 🛠️ Professional Experience & Skills
+* **Backend:** PHP, Laravel (Modular Design, RESTful APIs, RBAC).
+* **Performance:** MySQL Optimization, Laravel Queues & Jobs, Automated QR Generation.
+* **Architecture:** SOLID Principles, Clean Architecture, MVC.
+* **Currently Learning:** React.js & Advanced Database Management.
 
-## Languages and Tools:
+---
 
+### 🎓 Education
+**Bachelor of Engineering**, Mansoura University | *2020 - 2025*
+* **Department:** Computer and Control Systems
+* **Relevant Coursework:** Data Structures & Algorithms, OOP, Database Systems, Problem Solving.
 
+---
+
+### 🚀 Languages and Tools
 <p align="left"> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+ <a href="https://www.php.net" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+ </a>
+ <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
+ </a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+ </a>
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
  </a>
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
  </a>
- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
- </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
- </a>
- <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
- </a>
- <a href="https://www.w3schools.com/php/default.asp" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="Php" width="40" height="40"/>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
  </a>
 </p>
 
-Check out my [LinkedIn](https://www.linkedin.com/in/ahmed-ghoneim-85b320219/) for more details.
+---
 
+### 📁 Projects
+I’m actively working on production-ready systems and open-source projects. Check my repositories for:
+* **Modular Laravel Architectures**
+* **Scalable API Implementations**
+* **Financial & Management Modules**
 
+---
 
-# Projects 📁
-You can see most of it here actually.
-
-# Contact 📞
+### 📞 Contact Me
+<p align="left">
 <a href="https://www.linkedin.com/in/ahmed-ghoneim-85b320219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ahmedghoneim510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://facebook.com/ahmedghoneim8"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://t.me/Ahmed_Ghoneim5"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
 
-Feel free to reach out to me if you have any questions or would like to connect!
+Feel free to reach out if you'd like to collaborate or just talk tech!
